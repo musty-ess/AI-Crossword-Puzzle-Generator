@@ -25,11 +25,9 @@ The task is to generate a crossword puzzle by selecting appropriate words from a
 - `generate.py`: Contains the AI logic that solves the crossword puzzle using CSP techniques.
 
 ## Steps to Generate a Crossword Puzzle
-
-1. **Install Requirements**:  
-   Make sure you have Python 3.12 installed and install the Pillow library (for image generation) using: `pip install pillow`
-2. **Run the Program**:
-Generate a crossword puzzle by running the following command: `python generate.py data/structure1.txt data/words1.txt output.png`
+1. **Clone the repo**: `git clone https://github.com/musty-ess/AI-Crossword-Puzzle-Generator.git`
+1. **Install Requirements**: `pip install pillow`
+2. **Run the Program**: `python generate.py data/structure1.txt data/words1.txt output.png`
 
 This will create a crossword puzzle image (output.png) based on the specified structure and vocabulary.
 
