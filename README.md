@@ -69,3 +69,4 @@ The program will output a crossword puzzle saved as output.png.
 ## Conclusion
 This project demonstrates how to use AI techniques like **constraint satisfaction**, **backtracking**, and **arc consistency** to generate crossword puzzles.
 # AI-Crossword-Puzzle-Generator
+# AI-Crossword-Puzzle-Generator
